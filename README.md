@@ -7,7 +7,7 @@
 - 📫 How to reach me: harshitasadadekar@gmail.com
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/{HarshitaSadadekar}/{HarshitaSadadekar})]((https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev/visits/{HarshitaSadadekar}/{HarshitaSadadekar})
 [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
