@@ -13,7 +13,7 @@
 
 
 ___________________________________________________________________________________________________________________________________________________________________________________
-[<img align="left" alt="Harshita Sadadekar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshitaSadadekar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
