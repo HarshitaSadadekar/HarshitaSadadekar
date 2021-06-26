@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any Web Development projects.
 - 📫 How to reach me: harshitasadadekar@gmail.com
 
-https://badges.pufler.dev/visits/{username}/{repo}
+https://badges.pufler.dev/visits/{HarshitaSadadekar}/{HarshitaSadadekar}
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
