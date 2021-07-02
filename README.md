@@ -6,9 +6,10 @@
 </div>
 
 
-- 🌱 I’m currently learning Javascript,Flutter and Cpp.
-- 👯 I’m looking to collaborate on any Web Development projects.
-- 📫 How to reach me: harshitasadadekar@gmail.com
+### - 🌱 I’m currently learning Javascript,Flutter and Cpp.
+### - 👯 I’m looking to collaborate on any Web Development projects.
+### - 📫 How to reach me: harshitasadadekar@gmail.com
+
 
 ![](https://komarev.com/ghpvc/?username=HarshitaSadadekar&color=ff69b4)
 ________________________________________________________________________________________________________________________________________________________________________________
