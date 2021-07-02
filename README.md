@@ -11,7 +11,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://github.com/HarshitaSadadekar/HarshitaSadadekar.git)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://github.com/HarshitaSadadekar/HarshitaSadadekar.git)
 
-
+![](https://komarev.com/ghpvc/?username=HarshitaSadadekar&color=pink)
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 
