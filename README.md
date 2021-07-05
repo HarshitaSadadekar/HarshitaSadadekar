@@ -50,7 +50,7 @@ ________________________________________________________________________________
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/626/722/png-transparent-microsoft-visual-studio-net-framework-visual-studio-code-visual-programming-language-microsoft-purple-angle-studio-thumbnail.png" alt="VScode" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-<img style="margin: 10px" src="https://icon2.cleanpng.com/20180427/dzw/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107204e14.9412886915248058951323.jpg" alt="Figma" height="40" />
+<!-- <img style="margin: 10px" src="" alt="Figma" height="40" /> -->
 </div></td></tr></table> 
 <hr>
 
