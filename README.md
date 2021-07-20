@@ -41,7 +41,8 @@ ________________________________________________________________________________
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />  
-<img style="margin: 10px" src="https://i.dlpng.com/static/png/7044131_preview.png" alt="jQuery" height="40" />  
+<img style="margin: 10px" src="https://i.dlpng.com/static/png/7044131_preview.png" alt="jQuery" height="40" /> 
+<img style="margin: 10px" src="" alt="Expressjs" height="40" />    
 </div></td><td valign="top" width="33%">
 
 ### Others
