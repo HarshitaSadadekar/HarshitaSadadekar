@@ -31,6 +31,9 @@ ________________________________________________________________________________
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
 <img style="margin: 10px" src="https://img.favpng.com/13/19/12/computer-icons-scalable-vector-graphics-portable-network-graphics-codepen-png-favpng-T8NcxG8PN1La2ZkBAEwXK3Niq.jpg" alt="Codepen" height="40" />  
+ <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> 
 
 </div></td><td valign="top" width="33%">
 
@@ -42,7 +45,7 @@ ________________________________________________________________________________
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" />  
 <img style="margin: 10px" src="https://i.dlpng.com/static/png/7044131_preview.png" alt="jQuery" height="40" /> 
-<!-- <img style="margin: 10px" src="" alt="Expressjs" height="40" />     -->
+ 
 </div></td><td valign="top" width="33%">
 
 ### Others
@@ -52,7 +55,7 @@ ________________________________________________________________________________
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <img style="margin: 10px" src="https://w7.pngwing.com/pngs/626/722/png-transparent-microsoft-visual-studio-net-framework-visual-studio-code-visual-programming-language-microsoft-purple-angle-studio-thumbnail.png" alt="VScode" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-<!-- <img style="margin: 10px" src="" alt="Figma" height="40" /> -->
+
 </div></td></tr></table> 
 <hr>
 
