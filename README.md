@@ -33,6 +33,7 @@ ________________________________________________________________________________
 <img style="margin: 10px" src="https://img.favpng.com/13/19/12/computer-icons-scalable-vector-graphics-portable-network-graphics-codepen-png-favpng-T8NcxG8PN1La2ZkBAEwXK3Niq.jpg" alt="Codepen" height="40" />  
 <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> 
 </div></td><td valign="top" width="33%">
 
 ### BackEnd
@@ -42,7 +43,7 @@ ________________________________________________________________________________
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <img style="margin: 10px" src="https://i.dlpng.com/static/png/7044131_preview.png" alt="jQuery" height="40" /> 
- 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Expressjs" height="40" />  
 </div></td><td valign="top" width="33%">
 
 ### Others
