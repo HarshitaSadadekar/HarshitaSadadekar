@@ -17,6 +17,9 @@ ________________________________________________________________________________
 <a href="https://www.linkedin.com/in/harshita-sadadekar-94196b1b8/">
   <img align="left" alt="Harshita's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://leetcode.com/harshitasadadekar/">
+  <img align="left" alt="Harshita's LeetCode" width="40px" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" />
+</a>
 <a href="https://dev.to/harshita sadadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshita sadadekar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/harshitasadadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harshitasadadekar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/calmdowncurly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="calmdowncurly" height="30" width="40" /></a>
